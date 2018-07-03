@@ -26,11 +26,21 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+span {
+  font-size: 11px;
+}
 
 #bottom{
+  
+  background-color: dimgray;
   color: white;
   text-align: left;
+
 }
 p {
   font-size: 14px;
+}
+#designed {
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
